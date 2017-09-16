@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import menuAim from 'menu-aim/src'
+import menuAim from 'menu-aim'
 export default {
   mounted () {
     menuAim(document.querySelector('.menu-aim'), {

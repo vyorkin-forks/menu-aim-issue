@@ -2,6 +2,13 @@
 
 > A Vue.js project
 
+## Preprequisites
+
+```
+$ cd node_modules/menu-aim
+$ npm i
+```
+
 ## Build Setup
 
 ``` bash
